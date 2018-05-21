@@ -5,7 +5,7 @@ Snapshot images and uploading them using the FTP to the PC
 
 1. [Gpiozero](https://gpiozero.readthedocs.io/en/stable/recipes.html)
 
-2. [How to Setup an FTP Server on Windows 10 2018] (https://www.youtube.com/watch?v=YU7jVwj4WAM)
+2. [How to Setup an FTP Server on Windows 10 2018](https://www.youtube.com/watch?v=YU7jVwj4WAM)
 
 3. [Raspberry Pi Home Server v2: Resilio Sync](https://melgrubb.com/2016/12/11/rphs-v2-btsync/)
 
